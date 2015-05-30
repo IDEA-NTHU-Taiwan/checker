@@ -12,7 +12,7 @@ $dbname = '';
 $admin_id = "";
 $admin_pw = "";
 
-$google_api_key = 'AIzaSyBNjcDkNlEoYSU7SI4UGWavXu7lcwYq1Lk';
+$google_api_key = 'AIzaSyBNjcDkNlEoYSU7SI4UG************';
 
 /* === Database Connection === */
 $db = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
